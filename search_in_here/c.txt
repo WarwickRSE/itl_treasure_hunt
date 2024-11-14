@@ -1,0 +1,13 @@
+Congratulations.
+
+The next step is to go back to the search_in_here folder.
+
+Find the hidden folder scraps and rename it to map_pieces.
+
+Clear out the text files a b d & e. to make things neater. 
+
+Hint: Have a look at `*` to see how you can make this quick.
+      If you want to find our what it does by yourself use.
+      `echo *`, `echo *.txt` and `echo *.md` in various places.
+      Then read the aside after the solutions to check your intuition.
+
